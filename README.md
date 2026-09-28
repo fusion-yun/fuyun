@@ -1,4 +1,4 @@
-<p align="center"><img src="brand/fuyun-logo.svg" alt="FuYun 浮云" height="110"></p>
+<p align="center"><img src="brand/fuyun-logo.svg" alt="FuYun 浮云" height="64"></p>
 
 # 浮云 FuYun
 
