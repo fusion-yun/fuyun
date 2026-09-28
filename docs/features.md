@@ -43,4 +43,4 @@
 
 ---
 
-*English summary.* fuyun offers FAIR data publication with curation, versioning, access levels and preservation; browsing of device data by shot and on-demand conversion to the IMAS data model; stable resolvable identifiers for devices, shots, datasets, processing runs and software; personal and group workspaces with in-platform processing of protected data; recorded provenance; peer-reviewed annotations; AI-assistant access via MCP under the user's own permissions; single sign-on and full audit.
+*English summary.* FuYun offers FAIR data publication with curation, versioning, access levels and preservation; browsing of device data by shot and on-demand conversion to the IMAS data model; stable resolvable identifiers for devices, shots, datasets, processing runs and software; personal and group workspaces with in-platform processing of protected data; recorded provenance; peer-reviewed annotations; AI-assistant access via MCP under the user's own permissions; single sign-on and full audit.

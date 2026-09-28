@@ -1,6 +1,6 @@
-<p align="center"><img src="brand/fuyun-logo.svg" alt="浮云 fuyun" height="72"></p>
+<p align="center"><img src="brand/fuyun-logo.svg" alt="FuYun 浮云" height="110"></p>
 
-# 浮云 fuyun
+# 浮云 FuYun
 
 **浮云**是面向聚变领域的科学数据与计算平台：把实验装置数据、模拟结果、代码与文献纳入同一套可发现、可引用、可追溯的服务，支撑数据的汇交、发布、处理、标注与长期保存。
 
@@ -31,18 +31,18 @@
 
 ---
 
-## fuyun (English)
+## FuYun (English)
 
-**fuyun** (浮云, "floating cloud") is a scientific data and computing platform for fusion research. It brings device data, simulation results, code and publications under one set of findable, citable and traceable services: deposit, publication, processing, annotation and long-term preservation.
+**FuYun** (浮云, "floating cloud") is a scientific data and computing platform for fusion research. It brings device data, simulation results, code and publications under one set of findable, citable and traceable services: deposit, publication, processing, annotation and long-term preservation.
 
 This repository is the platform's **public window**: feature overview, news and feedback. The platform source code is not here.
 
 - Features: [docs/features.md](docs/features.md) · Brand: [brand/BRAND.md](brand/BRAND.md)
 - Feedback and requests: [open an issue](../../issues/new/choose) · Security reports: [SECURITY.md](SECURITY.md)
 
-Sites powered by fuyun carry "Powered by fuyun" in their footer. The first is the **Fusion Science Data Center (FSDC)**, under construction.
+Sites powered by FuYun carry "Powered by FuYun" in their footer. The first is the **Fusion Science Data Center (FSDC)**, under construction.
 
 ## 许可 · License
 
 文字内容以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可；浮云名称与标识不在此许可之内，使用规则见 [brand/BRAND.md](brand/BRAND.md)。
-Text is licensed under CC BY 4.0; the fuyun name and logo are not, see [brand/BRAND.md](brand/BRAND.md).
+Text is licensed under CC BY 4.0; the FuYun name and logo are not, see [brand/BRAND.md](brand/BRAND.md).

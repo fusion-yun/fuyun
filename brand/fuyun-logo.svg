@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 64" width="250" height="64" role="img" aria-label="浮云 fuyun">
-  <defs>
-    <linearGradient id="fy-cloud-l" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#5BB3F0"/>
-      <stop offset="1" stop-color="#1E5FA8"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#fy-cloud-l)" d="M24 56h50a18 18 0 0 0 2.5-35.8A24 24 0 0 0 31.4 14 16 16 0 0 0 24 56z"/>
-  <ellipse cx="50" cy="38" rx="20" ry="7.5" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.95"/>
-  <ellipse cx="50" cy="38" rx="9" ry="3.2" fill="#FFB547"/>
-  <text x="104" y="41" font-family="'Noto Sans SC','Source Han Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#1B2A41">浮云</text>
-  <text x="172" y="41" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="1" fill="#5A6B82">fuyun</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="FuYun — integrated modelling and knowledge computing">
+  <!-- FuYun logo, centered on a 1280x640 (2:1) transparent banner canvas.
+       From fusion-yun.github.io figures/fuyun_logo.svg with the y capitalised (user 2026-09-28):
+       #FF8C00 plasma orange on the highlighted glyphs (F, Y), #003366 navy on the rest. -->
+  <svg x="40" y="40" width="1200" height="560" viewBox="0 0 240 100" preserveAspectRatio="xMidYMid meet">
+    <rect width="238" height="98" x="1" y="1" rx="12" fill="none" stroke="#e1e4e8" stroke-width="1"/>
+    <text x="50%" y="43%" font-family="Arial, sans-serif" font-size="54" font-weight="bold" dominant-baseline="middle" text-anchor="middle">
+      <tspan fill="#FF8C00" font-style="italic">F</tspan><tspan fill="#003366">u</tspan><tspan fill="#FF8C00" font-style="italic">Y</tspan><tspan fill="#003366">un</tspan>
+    </text>
+    <line x1="40" y1="64" x2="200" y2="64" stroke="#003366" stroke-width="1" stroke-opacity="0.1" />
+    <text x="50%" y="81%" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="6" fill="#42526E" dominant-baseline="middle" text-anchor="middle" font-weight="500" textLength="190" lengthAdjust="spacing">INTEGRATED MODELLING · KNOWLEDGE COMPUTING</text>
+  </svg>
 </svg>
