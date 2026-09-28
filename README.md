@@ -33,7 +33,7 @@ This repository is the platform's **public window**: feature overview, news and 
 - Features: [docs/features.md](docs/features.md) · Brand: [brand/BRAND.md](brand/BRAND.md)
 - Feedback and requests: [open an issue](../../issues/new/choose) · Security reports: [SECURITY.md](SECURITY.md)
 
-Sites powered by FuYun carry "Powered by FuYun" in their footer. The first is the **Fusion Science Data Center (FSDC)**, under construction.
+Sites powered by FuYun carry "Powered by FuYun" in their footer.  
 
 ## 许可 · License
 
