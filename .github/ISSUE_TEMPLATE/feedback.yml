@@ -1,0 +1,30 @@
+name: 问题反馈 · Problem report
+description: 使用浮云支撑的站点时遇到的错误或问题 · Something does not work as expected
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请勿粘贴未公开的数据、账号、口令或内部地址。安全漏洞请走 SECURITY.md 的私密渠道。
+        Do not paste unpublished data, credentials or internal addresses. Security issues: see SECURITY.md.
+  - type: input
+    id: site
+    attributes:
+      label: 站点 · Site
+      placeholder: 聚变科学数据中心 / FSDC
+  - type: input
+    id: page
+    attributes:
+      label: 页面或功能 · Page or feature
+      placeholder: 例如 数据检索、数据集页面、数据浏览
+  - type: textarea
+    id: what
+    attributes:
+      label: 发生了什么 · What happened
+      description: 操作步骤、看到的结果、期望的结果 · Steps, actual and expected result
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: 时间与浏览器 · Time and browser

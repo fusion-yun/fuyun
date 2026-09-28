@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 64" width="250" height="64" role="img" aria-label="浮云 fuyun">
+  <defs>
+    <linearGradient id="fy-cloud-w" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5BB3F0"/>
+      <stop offset="1" stop-color="#1E5FA8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fy-cloud-w)" d="M24 56h50a18 18 0 0 0 2.5-35.8A24 24 0 0 0 31.4 14 16 16 0 0 0 24 56z"/>
+  <ellipse cx="50" cy="38" rx="20" ry="7.5" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.95"/>
+  <ellipse cx="50" cy="38" rx="9" ry="3.2" fill="#FFB547"/>
+  <text x="104" y="41" font-family="'Noto Sans SC','Source Han Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">浮云</text>
+  <text x="172" y="41" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="1" fill="#D6E4F5">fuyun</text>
+</svg>

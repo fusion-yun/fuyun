@@ -1,0 +1,15 @@
+name: 数据需求 · Data request
+description: 希望在平台上找到或发布的数据 · Data you would like to find or publish
+labels: ["data"]
+body:
+  - type: textarea
+    id: data
+    attributes:
+      label: 数据 · Data
+      description: 装置、物理量、时间范围、格式；或你希望发布的数据 · Device, quantities, range, format; or data you want to publish
+    validations:
+      required: true
+  - type: textarea
+    id: use
+    attributes:
+      label: 用途 · Intended use

@@ -1,0 +1,24 @@
+name: 功能建议 · Feature request
+description: 希望平台支持的功能、数据类型、格式或接口 · A capability you would like
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 需求 · What you need
+      description: 你想完成什么工作，目前卡在哪里 · The task and what blocks it today
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 设想 · Suggested approach
+  - type: dropdown
+    id: role
+    attributes:
+      label: 你的角色 · Your role
+      options:
+        - 数据使用者 · Data user
+        - 数据提供方 · Data provider
+        - 开发者 / 集成方 · Developer / integrator
+        - 其他 · Other
